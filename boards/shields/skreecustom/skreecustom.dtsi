@@ -86,8 +86,9 @@
         status = "disabled";
 	input-processors = 
 	<&zip_xy_to_scroll_mapper>,
-	<&zip_xy_scaler 1 300>,
-	<&zip_scroll_transform INPUT_TRANSFORM_X_INVERT>;
+	<&zip_xy_scaler 1 3000>,
+	<&zip_scroll_transform INPUT_TRANSFORM_X_INVERT>
+	<&zip_scroll_transform INPUT_TRANSFORM_XY_SWAP>;
     };
 };
 
