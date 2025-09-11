@@ -30,8 +30,8 @@
 &kp DEL         &kp Q       &kp W       &kp E       &kp R         &kp T           &kp Y       &kp U       &kp I       &kp O       &kp P       &kp BSLH
 &kp LGUI        &kp A       &kp S       &kp D       &kp F         &kp G           &kp H       &kp J       &kp K       &kp L       &kp SEMI    &kp SQT
 &mt LSHFT LPAR  &kp Z       &kp X       &kp C       &kp V         &kp B           &kp N       &kp M       &kp COMMA   &kp DOT     &kp FSLH    &mt RALT RPAR
-                                        &kp LCTRL   &kp SPACE     &kp TAB         &kp RET     &kp BSPC    &kp SYM
-                                                    &mo FUNCTION  &mo NUM                     &mo ESC     &kp DEL
+                                        &kp LCTRL   &kp SPACE     &kp ESC         &kp RET     &kp BSPC    &mo SYM
+                                                    &mo FUNCTION  &mo NUM                     &kp RSHFT   &kp TAB
             >;
         };
 
