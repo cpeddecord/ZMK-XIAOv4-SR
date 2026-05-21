@@ -39,7 +39,7 @@
             bindings = <
 &trans  &trans      &trans      &trans      &trans      &trans          &trans      &trans      &trans      &trans      &trans      &trans
 &trans  &kp DLLR    &kp TILDE   &kp UNDER   &kp PLUS    &kp AT          &kp PG_UP   &kp HOME    &kp UP      &kp END     &trans      &trans
-&trans  &kp HASH    &kp EXCL    &kp MINUS   &kp EQUAL   &kp GRAVE       &kp PG_UP   &kp LEFT    &kp DOWN    &kp RIGHT   &trans      &trans
+&trans  &kp HASH    &kp EXCL    &kp MINUS   &kp EQUAL   &kp GRAVE       &kp PG_DN   &kp LEFT    &kp DOWN    &kp RIGHT   &trans      &trans
 &trans  &kp STAR    &kp LT      &kp LBRC    &kp LBKT    &kp AMPS        &kp CARET   &kp RBKT    &kp RBRC    &kp GT      &trans      &trans
                                 &trans      &trans      &trans          &trans      &trans      &trans
                                             &trans      &trans          &trans      &trans
